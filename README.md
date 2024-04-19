@@ -1,2 +1,1 @@
-# GR-1
-Code for "Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation" is available in [this repo](https://github.com/bytedance/GR-1).
+# :tada: GR-1 code is available in [https://github.com/bytedance/GR-1](https://github.com/bytedance/GR-1).
